@@ -24,4 +24,8 @@ public class FlagValidatorClass implements ConstraintValidator<FlagValidator,Int
         }
         return isValid;
     }
+
+    private void test() {
+        System.out.println("testing");
+    }
 }
