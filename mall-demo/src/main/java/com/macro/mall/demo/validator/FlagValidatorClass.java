@@ -28,4 +28,16 @@ public class FlagValidatorClass implements ConstraintValidator<FlagValidator,Int
     private void test() {
         System.out.println("testing");
     }
+    private void test2() {
+        System.out.println("testing");
+    }
+    private void test3() {
+        System.out.println("testing");
+    }
+    private void test4() {
+        System.out.println("testing");
+    }
+    private void test5() {
+        System.out.println("testing");
+    }
 }
